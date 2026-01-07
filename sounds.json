@@ -1,0 +1,14 @@
+{
+  "smile_transform_success": { "sounds": [ "smileaddon:smile_transform_success" ] },
+  "smile_transform_fail": { "sounds": [ "smileaddon:smile_transform_fail" ] },
+  "smile_laugh_cursed1": { "sounds": [ "smileaddon:smile_laugh_cursed1" ] },
+  "smile_laugh_cursed2": { "sounds": [ "smileaddon:smile_laugh_cursed2" ] },
+  "smile_laugh_cursed3": { "sounds": [ "smileaddon:smile_laugh_cursed3" ] },
+  "smile_roar_animal": { "sounds": [ "smileaddon:smile_roar_animal" ] },
+  "smile_buzz_insect": { "sounds": [ "smileaddon:smile_buzz_insect" ] },
+  "smile_activation": { "sounds": [ "smileaddon:smile_activation" ] },
+  "smile_crafting": { "sounds": [ "smileaddon:smile_crafting" ] },
+  "smile_reject": { "sounds": [ "smileaddon:smile_reject" ] },
+  "villager_desperate_eat": { "sounds": [ "smileaddon:villager_desperate_eat" ] },
+  "villager_scream": { "sounds": [ "smileaddon:villager_scream" ] }
+}

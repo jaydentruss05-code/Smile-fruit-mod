@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="smileaddon"
+version="1.0.0"
+displayName="Smile Addon"
+description='''Smile Addon — Mine Mine no Mi addon. Adds Smile fruit variants, villager AI, transformations, textures, and animations.'''
+authors="You"
+
+[[dependencies.smileaddon]]
+    modId="minemine"
+    mandatory=true
+    versionRange="*"
+    side="BOTH"
